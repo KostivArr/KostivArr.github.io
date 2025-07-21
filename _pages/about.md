@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Yi
+I am a third year undergraduate student in the department of Mathematics in Fudan University. My intereste lies in Probability Theory and Tennis.
