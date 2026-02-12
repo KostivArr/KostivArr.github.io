@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "About Me"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a third year undergraduate student in the department of Mathematics in Fudan University. My intereste lies in Probability Theory and Tennis.
+Hi! I am a fourth year undergraduate student in the department of Mathematics in Fudan University. My research intereste lies in optimization and statistics.
